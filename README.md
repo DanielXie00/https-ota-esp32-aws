@@ -20,6 +20,8 @@ Uses an mbedTLS socket to make a very simple HTTPS request over a secure connect
 
 
 NOTE:
+
   1.Download the code 
+  
   2.Cd to source，make menuconfig ->Example Configguration -->wifi ssid and wifi password
      Partition Table -->Factory app,two OTA definitions.https://github.com/DanielXie00/https-ota-esp32-aws/tree/master/STEPS
