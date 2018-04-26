@@ -1,4 +1,4 @@
-# HTTPS Request Example
+# https-ota-esp32-aws
 
 Uses an mbedTLS socket to make a very simple HTTPS request over a secure connection, including verifying the server TLS certificate.
 
