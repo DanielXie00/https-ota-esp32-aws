@@ -15,3 +15,8 @@ Uses an mbedTLS socket to make a very simple HTTPS request over a secure connect
    Step 6 : Build the above URL and fire it either in your browser  to validate the URL
    
    Step 7:  Plug in your SSID, Password, S3 Host and Bin file below
+
+
+NOTE:
+  1.Download the code 
+  2.Cd to source，
