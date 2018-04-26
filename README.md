@@ -10,7 +10,7 @@ Uses an mbedTLS socket to make a very simple HTTPS request over a secure connect
    
    Step 4 : Once uploaded, inside S3, select the bin file >> More (button on top of the file list) >> Make Public
    
-   Step 5 : You S3 URL => https://s3-us-west-2.amazonaws.com/Your-account/test_ota.bin
+  Step 5 : You S3 URL => https://s3-us-west-2.amazonaws.com/Your-account/test_ota.bin
    
    Step 6 : Build the above URL and fire it either in your browser  to validate the URL
    
