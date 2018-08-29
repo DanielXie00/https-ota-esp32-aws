@@ -27,3 +27,6 @@ NOTE:
      Partition Table -->Factory app,two OTA definitions.https://github.com/DanielXie00/https-ota-esp32-aws/tree/master/STEPS
 
    3.build and download.
+
+
+**If you have any suggestions or questions, please contact   xieshupei2010@gmail.com!**
